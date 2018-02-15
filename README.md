@@ -1,2 +1,2 @@
 # pairrrank
-Pet project of a data team to fairly rank their table football performance.
+Pet project of a data team to rank their table football performance in a statistically anc ethically acceptable way.
